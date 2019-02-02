@@ -1,0 +1,63 @@
+body {
+    background-color: #666666;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.logo{
+    width: 100px;
+    margin-left: 20%;
+}
+
+.header {
+    padding: 0.75rem 1.25rem;
+    background-color: #666666;
+    position: sticky;
+}
+
+.firstpart {
+    width: 100%;
+}
+
+.firstpart img {
+    width: 100%;
+}
+
+.headersuza {
+    width: 100%;
+    position: relative;
+    z-index: -1;
+    background-color: white;
+}
+
+.info {
+    z-index: 5;
+    margin: 0 10% 0 10%;
+    padding: 0 10% 0 10%;
+    background-color: white;
+    top: 400px;
+    position: absolute;
+}
+
+.k {
+    height: 75%;
+    background: #fff;
+    padding: 10px 15px;
+    background-size: cover;
+
+}
+
+.ktext {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color : white;
+}
+
+.center {
+    position: relative;
+    text-align: center;
+}

@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="146d3291-a24d-4496-beac-3ccd10687646" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/urismart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/t.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/t1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/urismart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/HelveticaNeue.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/FooterSuza.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/HeaderSuza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/HeaderSuza.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KrivinicaG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KrivinicaY.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/k1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/k1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-abacus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-adjustment-horizon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-adjustment-vertical.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-air-balloon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-airplane-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-airplane.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-alarm-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-alien.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-aligh-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-align-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-align-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ambulance.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-anchor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-android.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-angle-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-angle-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-antenna-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-apron.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-change.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-circle-rycycle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-four-way.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-fullscreen-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-fullscreen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-left-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-move.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-reload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-resize-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-resize-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-resize-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-resize-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-resize-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-resize-6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-shuffle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thick-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thick-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thick-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thick-thin-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thick-thin-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thick-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thin-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thin-left-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thin-left-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thin-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thin-right-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thin-right-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thin-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-thin-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-three-way-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-three-way-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-triangle-recycle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-two-left-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-two-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-two-way-left-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-two-way-right-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-two-way-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-two-way.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-up-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-arrow-wave.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-art-board.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-askterisk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-atm-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-axe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-baby-milk-botl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-baby-stroller.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-baby-troller.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-baby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-back-pack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-backward-page.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-badge-name.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bag-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bag-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-balance.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-balloon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bandage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bank.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-barcode.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-barrier.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-baseball-stick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-baseball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basket-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basket-arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basket-arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basket-arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basket-checked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basket-error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basket-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basket-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-basketball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-battery-charging.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-battery-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-battery-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-battery-half-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-battery-half.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-battery-low.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bicycle-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bicycle-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bicycle-man.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bikini.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-billiard-ball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-binocular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-birthday-cake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-biscuit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-blender.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-blood-bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bluetooth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-board.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-boat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bolt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bomb-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bomb-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-book-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-book-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-book-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-book-@.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-book-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-book-person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bookcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-botl-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-botl-milk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bow-tie.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-box-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-box-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bread.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-briefcase-person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-brightness.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-brush-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-brush-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-brush-and-pencil.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bubble-chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bubble-message-dot-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bubble-message-dot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bubble-message-hi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bubble-message-quote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bubble-message-talk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bubble-message-text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bubble-message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bucket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-building.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bullet-checked-list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bullet-list-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bullet-list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-bus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-buy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-hd.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-sale.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-sell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-starburst.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-triangle-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-button-tv.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cabin-cable.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cabinet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-calculator-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-calculator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-calendar-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-calendar-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-calendar-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-call-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-call-reply.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-call.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-camera-projector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-camera-security.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-can-water.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-candle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-candy-stick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-candy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-car-garage.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-car.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-casette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cashier-machine.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-castle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-caterpillar-machine.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cente-justify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-chair-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-chair-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-champion-cup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-chart-column-decrease.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-chart-column-increase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-chart-column.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-chart-decrease.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-chart-piece.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-checked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cheese.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cherry.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-christmas-mistletoe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-christmass-ball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-christmass-egg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-christmass-hat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-christmass-tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-control-pad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-drashed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-help.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-load-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-load-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-triangle-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-triangle-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle-triangle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-city.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-clamp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-clapboard-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-clapboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-clip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-clipboard-checked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-clipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-heavy-rain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-rain-heavy-rain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-snow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-thunder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-clover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cock-pot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cocktail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-coconut.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-coffee-machine.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-color-picker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-column-decrease.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-column-increase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-column-wave.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-comb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-compass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-congratulation-hat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-connect-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-connect-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-contact-book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-contacter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-contrast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-control-pad-.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-corkscrew.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-corner-flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cover-flow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cover-food.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cpu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cran.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-crop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cross-hair-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cross-hair.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-crown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cruise.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cubic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-cup-cake.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-curtain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-customer-support.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-data-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-database-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-database-error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-database-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-database-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-database-share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-database-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-database.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-delicious-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-deny.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-desktop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dial-number-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dial-number.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-diamond.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dice-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dice-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dice-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dice-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dice-6-.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dice-6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-deny.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-pause.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-play-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-stop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dish.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-disk-antenna.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dna.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-bullet-list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-checked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-doc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-help.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-music.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-pdf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document-warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-document.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-door.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-downstair.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-downwards-arrow-to-bar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-drill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-drop-water.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-dropbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-drum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-easal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-edit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-egg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-eject.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-electron.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-elevator-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-elevator-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-emoticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-end-page.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-erase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-euro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-excavator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-extinguisher.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-eye-drop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-eye-glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-factory.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-faucet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-feather.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-female.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-fence-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-fence.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-file-box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-file-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-file-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-film-35mm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-film.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-finder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-finger-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-fire-alarm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-fire-hydrant.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-fire-wood.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-fire.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-first-aid-briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-fish.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-float.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-floppy-disk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-flower-pot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-flower.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-contact.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-music.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder-warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-foot-sign.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-forcus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-forklift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-forward-page.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-fridge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-fullscreen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-game-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-game-controll.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-gas-station.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-gate.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-gear-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-gear.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ghost.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-gift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-glass-water.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-global.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-glove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-golf-ball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-golf-flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-guitar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hamburger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hammer-and-wrench.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hammer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hand-lamp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hand-switch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hand.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-handcuff.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hanger.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hardware.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hat-chef.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-head-set.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-head.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-heart-delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-heart-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-heart-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-heart-signal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-helicopter-pad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-helicopter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-helm-wheel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-helmet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hightheel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-history.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hockey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-home-page.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-horse-shoe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-horse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-hospital.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-house.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ice-cream.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-id-badge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-in-columns.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-inbox-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-inbox-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-infinity-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-infinity.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ipod.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-iron.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-jump-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-jump-double-page-left-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-jump-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-jump-page-left-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-jump-page-up-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-kette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-key-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-key.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-keyboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-knife.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ladder-pool.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-lamp-desk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-lamp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-lavabo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-law-hammer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-layout-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-layout-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-layout-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-layout-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-leaf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-left-justify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-leftwards-arrow-to-bar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-light-alarm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-light-bulb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-light-house.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-like-unlike.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-like.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-line-two-angle-point.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-link-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-link-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-link-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-load.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-lock-unlock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-louder-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-louder-speaker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-magnet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-magnifier-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-magnifier.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mail-box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mail-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mail-has-mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mail-inbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mail-send.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-male.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-man-doctor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-map-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-map-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mark-snorker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mask-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mask-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-medal-star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-microphone-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-microphone-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-microscope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mocule.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-money-$.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-money-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-money-bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-money-coin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-moon-star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-motobike.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mountain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-movie-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-movie-projector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-multifunction-knife.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mushrooms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-music-note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-music.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-mustache.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-network-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-network.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-newspaper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-no-dog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-no-smoke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-note-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-old-phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pallette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-paper-clip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-paper-plane.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-paper-roll.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-paper-shredder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pause.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pawn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-paypal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pen-nib.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pencil.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-percent.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-checked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-door-man.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-man.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-people.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-prison.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-public.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-talk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person-woman.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pet-carrier.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-phone-fax.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-phone-number.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-piano.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-picture-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-picture-copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-picture.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-piggy-bank.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pill.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pin-location-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pin-location-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pin-location-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pin-location-delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pin-location-love.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pin-location-map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pin-location-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pin-location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pin-map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ping-pong-racket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pipe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-pizza.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-plugin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-podium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-poker-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-poker-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-poker-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-poker-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-print.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-puzzle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-quote-close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-quote-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-radio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-radioactive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-record.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-reduce.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-reel-audio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-reel-film.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-repeat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-resize-in-frame.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-resize-out-frame.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-retroeexcavadora.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ribbon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-right-justify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-rightwards-arrow-to-bar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ring.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-road.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-rocket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-roller.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-rugby-ball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ruler.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-safe-box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-safe-pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-satellite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-saw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-scissor-line-cut.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-scissor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-screen-ful.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-screen-scale.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-screw-driver.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-screw.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sd-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-seriff.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sewing-machine.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sewing-roll.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-share-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-share-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-share-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-share-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sheep.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-shield-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-shield-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-shield-star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-shield.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-shovel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-shower.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sign-board.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sign-foot.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sign-in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sign-out.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sign-p.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sign-road-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sign-road-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-signal-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-signal-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-signal-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-site-map-revert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-site-map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-skateboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-skull.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sleep.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-slide-show.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-smartphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-snow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-soccer-yard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-socket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-solar-blind.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sos.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sound-mute.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-sound.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-space-ship.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-spanner.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-spoon-fork.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-spray.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square-checked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square-dashed-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square-dashed-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square-delicious.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square-eight-angle-point.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square-four-angle-point.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square-four.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square-star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-stamps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-star-cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-star-stick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-stele.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-stelescope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-stereo-jack.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-stethoscope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-store.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-stove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-strawberry.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-street-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-strolley-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-strolley-arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-strolley-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-strolley-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-strolley.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-subway.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-suitcase-person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-suitcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-syringe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-t-shirt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tablet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tag-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tag-one-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tag-price.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tank.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-targer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tea-cup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-teeth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-telephone-box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-telescope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-television.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tennis-racket-ball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tent-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tent-camp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-test-tube-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-test-tube-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-test-tube.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-text-search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-thermometer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-three-ball.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tic-tac-toe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-time-glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-time-reload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-timer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-toilet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tool-box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-traffic-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-train-rail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-train.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-tree.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trees.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-triangle-double-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-triangle-double-arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-triangle-double-arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-triangle-double-arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-triangle-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-triangle-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-triangle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-triangle-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trolley-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trolley-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trolley-arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trolley-briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trolley-error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trolley-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trolley-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trolley-remove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-truck.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-trumpet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-turn-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-two-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-two-arrow-in-down-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-two-arrow-in-left-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-two-arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-two-arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-typewriter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-umberlla-chair.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-umbrella-close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-umbrella-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-umbrella-sea.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-upstair.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-upwards-arrow-to-bar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-upwards-arrow-with-loop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-usb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-view.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wacom-tablet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wall.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wallet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wash-machine-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wash-machine.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-watch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-webcam.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-weight-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-weight-kilograms.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-weight-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wheel-chair.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wheel-steel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wieght.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wifi-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wind-turbines.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-window.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wood-stove.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wrench-screwdriver.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-wrench.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-yen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-ying-yang.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-zip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-zoom-in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg/si-glyph-zoom-out.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/account-login.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/account-logout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/action-redo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/action-undo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/align-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/align-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/aperture.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-circle-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-circle-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-circle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-circle-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-thick-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-thick-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-thick-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-thick-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/arrow-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/audio-spectrum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/audio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/badge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/ban.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/bar-chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/basket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/battery-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/battery-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/beaker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/bluetooth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/bolt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/british-pound.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/browser.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/brush.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/bug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/bullhorn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/calculator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/camera-slr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/caret-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/caret-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/caret-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/caret-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/chevron-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/chevron-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/chevron-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/chevron-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/circle-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/circle-x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/clipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/cloud-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/cloud-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/cloudy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/cog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/collapse-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/collapse-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/collapse-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/collapse-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/command.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/comment-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/compass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/contrast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/copywriting.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/credit-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/crop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/data-transfer-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/data-transfer-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/dial.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/document.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/dollar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/double-quote-sans-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/double-quote-sans-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/double-quote-serif-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/double-quote-serif-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/droplet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/eject.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/elevator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/ellipses.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/envelope-closed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/envelope-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/euro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/excerpt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/expand-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/expand-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/expand-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/expand-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/external-link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/eyedropper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/fire.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/flash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/fork.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/fullscreen-enter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/fullscreen-exit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/graph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/grid-four-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/grid-three-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/grid-two-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/hard-drive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/headphones.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/inbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/infinity.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/justify-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/justify-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/justify-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/key.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/laptop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/layers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/lightbulb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/link-broken.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/link-intact.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/list-rich.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/lock-locked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/lock-unlocked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/loop-circular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/loop-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/loop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/magnifying-glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/map-marker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/media-pause.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/media-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/media-record.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/media-skip-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/media-skip-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/media-step-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/media-step-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/media-stop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/medical-cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/microphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/monitor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/move.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/musical-note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/paperclip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/pencil.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/people.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/pie-chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/play-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/power-standby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/print.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/project.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/pulse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/puzzle-piece.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/question-mark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/rain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/random.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/reload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/resize-both.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/resize-height.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/resize-width.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/rss-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/script.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/share-boxed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/shield.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/signal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/signpost.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/sort-ascending.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/sort-descending.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/spreadsheet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/tablet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/target.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/task.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/terminal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/thumb-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/thumb-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/timer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/transfer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/underline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/vertical-align-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/vertical-align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/vertical-align-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/video.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/volume-high.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/volume-low.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/volume-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/wifi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/wrench.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/yen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/zoom-in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/svg1/zoom-out.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/.gitignore" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urismart.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/urismart.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6579">
+              <caret line="387" column="1" selection-start-line="387" selection-start-column="1" selection-end-line="387" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mailer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mailer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" column="89" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery2.2.4.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery2.2.4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t1.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/t1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6409">
+              <caret line="377" column="30" selection-start-line="377" selection-start-column="30" selection-end-line="377" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/t1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="590">
+              <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>si-glyph-mail-inbox</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/icons.js" />
+        <option value="$PROJECT_DIR$/t1.html" />
+        <option value="$PROJECT_DIR$/js/jquery2.2.4.js" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/css/t1.css" />
+        <option value="$PROJECT_DIR$/css/urismart.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/mailer.php" />
+        <option value="$PROJECT_DIR$/t1.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="urismart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urismart" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="urismart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urismart" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="urismart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="urismart" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New_Report" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AppServ\www\urismart\js" />
+      <recent name="C:\AppServ\www\urismart" />
+      <recent name="C:\AppServ\www\urismart\img" />
+      <recent name="C:\AppServ\www\urismart\fonts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="146d3291-a24d-4496-beac-3ccd10687646" name="Default" comment="" />
+      <created>1544087510723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544087510723</updated>
+      <workItem from="1544087511983" duration="29246000" />
+      <workItem from="1544872042736" duration="12072000" />
+      <workItem from="1545233837277" duration="24577000" />
+      <workItem from="1545652251490" duration="597000" />
+      <workItem from="1547111696084" duration="623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67115000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.012369792" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/urismart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6579">
+          <caret line="387" column="1" selection-start-line="387" selection-start-column="1" selection-end-line="387" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="89" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery2.2.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/t1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6409">
+          <caret line="377" column="30" selection-start-line="377" selection-start-column="30" selection-end-line="377" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/urismart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6579">
+          <caret line="387" column="1" selection-start-line="387" selection-start-column="1" selection-end-line="387" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="89" lean-forward="true" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery2.2.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/t1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6409">
+          <caret line="377" column="30" lean-forward="true" selection-start-line="377" selection-start-column="30" selection-end-line="377" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/urismart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4437">
+          <caret line="261" column="1" selection-start-line="261" selection-start-column="1" selection-end-line="261" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/t1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="70" lean-forward="true" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/urismart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4046">
+          <caret line="238" column="17" lean-forward="true" selection-start-line="238" selection-start-column="17" selection-end-line="238" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2312">
+          <caret line="136" column="39" selection-end-line="171" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/t1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3264">
+          <caret line="192" column="28" lean-forward="true" selection-end-line="251" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/icons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4590">
+          <caret line="270" column="23" selection-start-line="270" selection-start-column="23" selection-end-line="270" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery2.2.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/embed.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-end-line="593" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/urismart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6579">
+          <caret line="387" column="1" selection-start-line="387" selection-start-column="1" selection-end-line="387" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="89" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/t1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6409">
+          <caret line="377" column="30" selection-start-line="377" selection-start-column="30" selection-end-line="377" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
